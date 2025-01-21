@@ -1,0 +1,141 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #2d0dad;
+}
+.ota{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 50px;
+    background: #e0f021;
+    width: 1200px;
+    padding: 50px;
+    gap: 78px;
+    margin: 300px auto;
+}
+.bola{
+    display: flex;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    background: #240404;
+    border: 2px solid red;
+    justify-content: center;
+}
+.nevara{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 133px;
+    height: 78px;
+    background-color: #d81414;
+    color: #ffffff;
+}
+.chevara{
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 400;
+} */
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #343c56;
+    border-radius: 40px;
+}
+.bobo{
+    padding-top: 46px;
+}
+.ota{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.bola{
+    width: 200px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: #ff0101;
+    padding: 14px;
+}
+.nevara{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    text-decoration: none;
+}
+.evara{
+    padding-top: 68px;
+}
+.hevara{
+    display: flex;
+    justify-content: space-around;
+}
+.begana{
+    display: flex;
+    border-radius: 40px;
+    background-color: #000000;
+    width: 264px;
+    height: 118px;
+    justify-content: center;
+    margin: 41px 640px;
+}
+.notanish{
+    display: flex;
+    color: #ffffff;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: center;
+    align-items: center;
+}
+.kochenskiopododa{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 41px;
+}
+.kochenskichol{
+    display: flex;
+    padding: 79px 80px;
+    border-radius: 50px;
+    background: #eb1616;
+    width: 500px;
+    height: 200px;
+    padding: 45px 50px;
+    
+}
+.kochenskiota{
+    display: flex;
+    background-color: #61ff00;
+    justify-content: center;
+    width: 800px;
+    height: 109px; 
+    padding-top: 28px;
+}
+.kochenskibola{
+    color: #000000;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    text-align: center;
+    padding: 10px 10px;
+
+}
+.kochenskinevara{
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    text-align: center;
+}
